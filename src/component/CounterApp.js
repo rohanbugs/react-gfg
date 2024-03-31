@@ -4,6 +4,7 @@ import CounterDispatch from './CounterDispatch';
 function CounterApp(props) {
     return (
         <div>
+        <p> app is live </p>
             <CounterState/>
             <CounterDispatch/>
          
